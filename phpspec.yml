@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Tdt\Platform
+        psr4_prefix: Tdt\Platform
+        src_path: app
