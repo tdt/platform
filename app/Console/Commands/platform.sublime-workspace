@@ -1,0 +1,1515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dcat_",
+				"$dcat_distributions〔variable〕"
+			],
+			[
+				"dcat",
+				"dcat:distribution"
+			],
+			[
+				"distr",
+				"$distribution〔variable〕"
+			],
+			[
+				"dis",
+				"distribution"
+			],
+			[
+				"di",
+				"distribution"
+			],
+			[
+				"EAsy",
+				"EasyRdf_Resource〔class〕"
+			],
+			[
+				"insta",
+				"instanceof"
+			],
+			[
+				"resource",
+				"$resource_property〔variable〕"
+			],
+			[
+				"resource_proper",
+				"resource_property"
+			],
+			[
+				"DcatRepository",
+				"DcatRepositoryInterface"
+			],
+			[
+				"new",
+				"newAndLoad〔function〕"
+			],
+			[
+				"parse",
+				"parse_url"
+			],
+			[
+				"class",
+				"class	PHP class"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"esc",
+				"escaped"
+			],
+			[
+				"dist",
+				"distribution_uri"
+			],
+			[
+				"data",
+				"$dataObj〔variable〕"
+			],
+			[
+				"conne",
+				"connections"
+			],
+			[
+				"default",
+				"default_value"
+			],
+			[
+				"trans",
+				"$translatedParameters〔variable〕"
+			],
+			[
+				"parameters_",
+				"$parameters_required〔variable〕"
+			],
+			[
+				"lan",
+				"languages"
+			],
+			[
+				"sourc",
+				"source_type"
+			],
+			[
+				"coo",
+				"$coordskey〔variable〕"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"get_class",
+				"get_class_methods〔function〕"
+			],
+			[
+				"donn",
+				"données"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"load",
+				"loaded_chunks"
+			],
+			[
+				"count",
+				"$count_chunks〔variable〕"
+			],
+			[
+				"lice",
+				"$license_uri〔variable〕"
+			],
+			[
+				"licese",
+				"$license_uri〔variable〕"
+			],
+			[
+				"licen",
+				"$license_uri〔variable〕"
+			],
+			[
+				"license",
+				"license_uri"
+			],
+			[
+				"domain",
+				"domain_software"
+			],
+			[
+				"title",
+				"$title_resource〔variable〕"
+			],
+			[
+				"them",
+				"$themes_graph〔variable〕"
+			],
+			[
+				"mongo",
+				"mongodb"
+			],
+			[
+				"part",
+				"part_options"
+			],
+			[
+				"type",
+				"type_options"
+			],
+			[
+				"input",
+				"$inputController〔variable〕"
+			],
+			[
+				"Input",
+				"InputController〔namespace〕"
+			],
+			[
+				"extarc",
+				"extract_parameters"
+			],
+			[
+				"extract",
+				"extract_parameters"
+			],
+			[
+				"extra",
+				"$extract_parameters〔variable〕"
+			],
+			[
+				"param",
+				"param_options"
+			],
+			[
+				"extrac",
+				"$extract_spec〔variable〕"
+			],
+			[
+				"input_",
+				"input_load_spec"
+			],
+			[
+				"Shape",
+				"ShapeReader"
+			],
+			[
+				"geog",
+				"geographyElements"
+			],
+			[
+				"collect",
+				"$collections〔variable〕"
+			],
+			[
+				"mari",
+				"$maritalstatus〔variable〕"
+			],
+			[
+				"age",
+				"$agecategories〔variable〕"
+			],
+			[
+				"av",
+				"$averageincome〔variable〕"
+			],
+			[
+				"eth",
+				"$ethnicity〔variable〕"
+			],
+			[
+				"ageca",
+				"agecategories"
+			],
+			[
+				"ave",
+				"$averageincomeCollection〔variable〕"
+			],
+			[
+				"ethini",
+				"$ethnicityCollection〔variable〕"
+			],
+			[
+				"housepri",
+				"$housepricesCollection〔variable〕"
+			],
+			[
+				"house",
+				"$houseprices〔variable〕"
+			],
+			[
+				"geo",
+				"$geographyElements〔variable〕"
+			],
+			[
+				"Mongo",
+				"MongoClient"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"lite",
+				"$literal_properties〔variable〕"
+			],
+			[
+				"provid",
+				"$provided_columns〔variable〕"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"extracted",
+				"$extracted_columns〔variable〕"
+			],
+			[
+				"export",
+				"$export_body〔variable〕"
+			],
+			[
+				"sha",
+				"shape_type"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"ttoal",
+				"total_rows"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"query",
+				"query"
+			],
+			[
+				"preg_match",
+				"preg_match_all〔function〕"
+			],
+			[
+				"tota",
+				"total_rows"
+			],
+			[
+				"limit",
+				"limitInQuery"
+			],
+			[
+				"is_int",
+				"is_integer"
+			],
+			[
+				"attrib",
+				"attributes"
+			],
+			[
+				"atti",
+				"$attributes〔variable〕"
+			],
+			[
+				"attri",
+				"$attributes〔variable〕"
+			],
+			[
+				"compon",
+				"$components〔variable〕"
+			],
+			[
+				"recur",
+				"recurviseJSON"
+			],
+			[
+				"compo",
+				"$components〔variable〕"
+			],
+			[
+				"attir",
+				"$attribute〔variable〕"
+			],
+			[
+				"atr",
+				"attributes"
+			],
+			[
+				"con",
+				"$constructor〔variable〕"
+			],
+			[
+				"tabular",
+				"$tabular_definition〔variable〕"
+			],
+			[
+				"parsed",
+				"$parsed_column〔variable〕"
+			],
+			[
+				"paramet",
+				"parameters"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"get",
+				"getallheaders"
+			],
+			[
+				"Bas",
+				"BaseController"
+			],
+			[
+				"chec",
+				"checkForDomain"
+			],
+			[
+				"next",
+				"next_link"
+			],
+			[
+				"tot",
+				"total_rows"
+			],
+			[
+				"column_name",
+				"column_name_alias"
+			],
+			[
+				"requ",
+				"requestParams"
+			],
+			[
+				"mysql",
+				"mysqldefinitions"
+			],
+			[
+				"taxono",
+				"taxonomy_uris"
+			],
+			[
+				"taxo",
+				"taxonomy_uri"
+			],
+			[
+				"taxon",
+				"taxonomy_uri"
+			],
+			[
+				"argument",
+				"arguments"
+			],
+			[
+				"theme",
+				"themes_fetched"
+			],
+			[
+				"themes",
+				"themes_graph"
+			],
+			[
+				"Dataset",
+				"DatasetController"
+			],
+			[
+				"http_build",
+				"http_build_query"
+			],
+			[
+				"cata",
+				"catalog_language"
+			],
+			[
+				"json",
+				"jsonld_formatter"
+			],
+			[
+				"publisher",
+				"publisher_name"
+			],
+			[
+				"publi",
+				"publisher_name"
+			],
+			[
+				"catalo",
+				"catalog_publisher_uri"
+			],
+			[
+				"dataset",
+				"dataset_uri"
+			],
+			[
+				"getCatalog",
+				"getCatalogPublisherUri"
+			],
+			[
+				"getL",
+				"getCatalogLanguage"
+			],
+			[
+				"catalog",
+				"catalog_description"
+			],
+			[
+				"issu",
+				"issued_date"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"desc",
+				"description_setting"
+			],
+			[
+				"catl",
+				"catalog_title"
+			],
+			[
+				"Settings",
+				"SettingsRepositoryInterface"
+			],
+			[
+				"general",
+				"general_settings"
+			],
+			[
+				"defin",
+				"definition"
+			],
+			[
+				"Allow",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"formatt",
+				"formattedJSON"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"api",
+				"api_aspect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jan/Sites/platform/app/Repositories/DcatRepository.php",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HarvestDcat.php",
+			"settings":
+			{
+				"buffer_size": 3840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jan/Sites/platform/app/Models/Dcat/Dataset.php",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jan/Sites/platform/storage/logs/laravel.log",
+			"settings":
+			{
+				"buffer_size": 517,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefs",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 599.0
+	},
+	"console":
+	{
+		"height": 122.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jan/Sites/platform",
+		"/Users/jan/Sites/platform/app",
+		"/Users/jan/Sites/platform/app/Console",
+		"/Users/jan/Sites/platform/app/Console/Commands",
+		"/Users/jan/Sites/platform/app/Models",
+		"/Users/jan/Sites/platform/app/Models/Dcat",
+		"/Users/jan/Sites/platform/app/Policies",
+		"/Users/jan/Sites/platform/app/Providers",
+		"/Users/jan/Sites/platform/app/Repositories",
+		"/Users/jan/Sites/platform/app/Repositories/Interfaces",
+		"/Users/jan/Sites/platform/config"
+	],
+	"file_history":
+	[
+		"/Users/jan/Sites/platform/config/database.php",
+		"/Users/jan/Sites/platform/config/app.php",
+		"/Users/jan/Sites/platform/app/Models/Dcat/Dataset.php",
+		"/Users/jan/Sites/platform/app/Providers/AppServiceProvider.php",
+		"/Users/jan/Sites/platform/app/Providers/RepositoryServiceProvider.php",
+		"/Users/jan/Downloads/platform.sublime-project",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jan/Sites/platform/app/Repositories/Interfaces/DcatRepositoryInterface.php",
+		"/Users/jan/Sites/platform/app/Repositories/DcatRepository.php",
+		"/Users/jan/Sites/platform/app/Console/Commands/HarvestDcat.php",
+		"/Users/jan/tdt.sublime-project",
+		"/Users/jan/Sites/platform/composer.json",
+		"/Users/jan/Sites/platform/app/Repositories/Interfaces",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/PHP comment.sublime-snippet",
+		"/Users/jan/Sites/platform/app/Models/Dcat/Geo/Dataset.php",
+		"/Users/jan/Sites/platform/app/Models/Dcat/Stat/Dataset.php",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jan/Sites/platform/app/Console/Kernel.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Definitions/DcatController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Definitions/DefinitionController.php",
+		"/Users/jan/Sites/platform/app/Models/Dcat/Ap/Dataset.php",
+		"/Users/jan/Sites/platform/database/migrations/2015_09_14_133904_init_dcat_ap_dataset.php",
+		"/Users/jan/Sites/platform/.env",
+		"/Users/jan/Sites/platform/app/Models/User.php",
+		"/Users/jan/Sites/platform/app/Dcat/Ap.php",
+		"/Users/jan/Sites/platform/app/User.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/ApiController.php",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP tdt-disclaimer.sublime-snippet",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP class.sublime-snippet",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/snippets/PHP public-method.sublime-snippets",
+		"/Users/jan/Library/Application Support/Sublime Text 3/Packages/User/snippers/snippets/php-method.sublime-snippet",
+		"/Users/jan/Sites/data/ilastic/phase_1_columns",
+		"/Users/jan/Sites/core/app/lang/fr/settings.php",
+		"/Users/jan/Sites/core/app/lang/en/parameters.php",
+		"/Users/jan/Sites/core/app/lang/fr/admin.php",
+		"/Users/jan/Sites/core/app/lang/fr/datasets.php",
+		"/Users/jan/Sites/core/app/lang/fr/errors.php",
+		"/Users/jan/Sites/core/app/lang/fr/parameters.php",
+		"/Users/jan/Sites/core/app/lang/nl/parameters.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Formatters/KMLFormatter.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/DcatRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/JsonDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/DataControllers/JSONController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Datasets/DatasetController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Formatters/HTMLFormatter.php",
+		"/Users/jan/Sites/easyrdf/test/EasyRdf/Serialiser/TurtleTest.php",
+		"/Users/jan/Sites/easyrdf/lib/Serialiser/Turtle.php",
+		"/Users/jan/Sites/core/composer.json",
+		"/Users/jan/Sites/core/vendor/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Turtle.php",
+		"/Users/jan/Sites/core/app/models/sourcetypes/ShpDefinition.php",
+		"/Users/jan/Sites/core/app/models/sourcetypes/XlsDefinition.php",
+		"/Users/jan/Sites/core/app/models/sourcetypes/CsvDefinition.php",
+		"/Users/jan/Sites/core/app/models/Definition.php",
+		"/Users/jan/Sites/core/app/database/migrations/2015_09_10_133250_move_map_property.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/CsvDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/XlsDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/ShpDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/DefinitionRepository.php",
+		"/Users/jan/Sites/core/app/database/migrations/2014_09_22_122442_title_on_sourcetype.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/DataControllers/SQLController.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/vendor/easyrdf/easyrdf/lib/EasyRdf/Serialiser/Turtle.php",
+		"/Users/jan/Sites/core/vendor/easyrdf/easyrdf/lib/EasyRdf/Serialiser.php",
+		"/Users/jan/Sites/core/app/config/local/cache.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/Pager.php",
+		"/Users/jan/Sites/tdtrml/app/Tdt/Core/Ui/SettingController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Ui/SettingController.php",
+		"/Users/jan/Sites/tdtrml/app/Tdt/Core/Ui/UiController.php",
+		"/Users/jan/Sites/tdtrml/app/Tdt/Core/Ui/UserController.php",
+		"/Users/jan/Sites/tdtrml/workbench/weopendata/iminds-sitemap/src/Weopendata/ImindsSitemap/Controllers/OrganisationController.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/config/local/database.php",
+		"/Users/jan/Sites/tdtrml/app/config/local/database.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/config/cache.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/config/production/app.php",
+		"/Users/jan/.Trash/app/config/production/app.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/config/production/database.php",
+		"/Users/jan/.Trash/app/config/production/database.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/workbench/weopendata/iminds-analytics/src/Weopendata/ImindsAnalytics/Controllers/AnalyticsController.php",
+		"/Users/jan/Sites/tdtrml/workbench/weopendata/iminds-analytics/src/Weopendata/ImindsAnalytics/Controllers/AnalyticsController.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/storage/logs/laravel.log",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/Repositories/SqlDefinitionRepository.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/config/database.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/Repositories/TabularBaseRepository.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/composer.json",
+		"/Users/jan/Sites/input/src/Tdt/Input/ETL/Extract/Encoding.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/models/sourcetypes/SqlDefinition.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/Repositories/Interfaces/SqlDefinitionRepositoryInterface.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/database/migrations/2015_09_09_084050_create_sql_definition.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/sftp-config.json",
+		"/Users/jan/Sites/tvl/app/Tdt/Core/Repositories/CsvDefinitionRepository.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/Tdt/Core/Repositories/DbServiceProvider.php",
+		"/Users/jan/Sites/tvl/app/Tdt/Core/DataControllers/PRODUCTCATEGORYController.php",
+		"/Users/jan/Sites/tvl/app/models/sourcetypes/ProductCategoryDefinition.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/app/database/migrations/2015_09_08_155446_sql_definition.php",
+		"/Users/jan/Sites/ilastic_remote_tdt/bootstrap/start.php",
+		"/Users/jan/Sites/tvl/app/database/migrations/2015_06_03_132433_add_contact_uri.php",
+		"/Users/jan/Sites/tvl/app/Tdt/Core/Repositories/ProductcategoryDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/BaseController.php",
+		"/Users/jan/Sites/core/app/storage/logs/laravel.log",
+		"/Users/jan/Sites/core/app/Tdt/Core/Validators/CustomValidator.php",
+		"/Users/jan/Sites/core/app/views/layouts/admin.blade.php",
+		"/Users/jan/Sites/core/app/views/ui/datasets/edit.blade.php",
+		"/Users/jan/Sites/core/app/config/local/app.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Ui/DatasetController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/XmlDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/lang/en/parameters/csv.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/SparqlDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/RdfDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/MysqlDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Repositories/MongoDefinitionRepository.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Formatters/CSVFormatter.php",
+		"/Users/jan/Sites/core/app/views/dataset/partials/details.blade.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/ContentNegotiator.php",
+		"/Users/jan/Sites/core/app/views/layouts/master.blade.php",
+		"/Users/jan/Sites/core/app/views/ui/datasets/add.blade.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/HomeController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Ui/UiController.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Tests/Ui/BaseUITest.php",
+		"/Users/jan/Sites/core/app/Tdt/Core/Tests/Ui/DatasetControllerAdminTest.php",
+		"/Users/jan/Sites/core/vendor/symfony/browser-kit/Symfony/Component/BrowserKit/Client.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/src/views/ui/jobs/add.blade.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/src/views/ui/jobs/edit.blade.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/src/lang/en/admin.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/src/lang/nl/admin.php",
+		"/Users/jan/Sites/core/workbench/Tdt/Input/src/lang/fr/admin.php",
+		"/Users/jan/Sites/core/workbench/tdt/input/src/views/ui/jobs/list.blade.php",
+		"/Users/jan/Sites/core/workbench/tdt/input/src/lang/en/admin.php",
+		"/Users/jan/Sites/core/workbench/tdt/input/src/lang/nl/admin.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/jan/Sites/core/app/views",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/workbench/input/src/migrations",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/workbench/input/src/Tdt",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/workbench/input",
+			"/Users/jan/Sites/core/workbench/input/vendor/jsor",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/workbench/input/src/Tdt",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/vendor/symm/gisconverter/src/Symm",
+			"/Users/jan/Sites/core/vendor/symm/gisconverter/src/Symm/Gisconverter",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app/database/migrations",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app/Tdt/Core",
+			"/Users/jan/Sites/core/vendor",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app/Tdt/Core",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app/Tdt/Core/Repositories",
+			"/Users/jan/Sites/core/vendor/laravel/framework",
+			"/Users/jan/Sites/triples",
+			"/Users/jan/Sites/core/workbench/triples/src/Tdt",
+			"/Users/jan/Sites/core/app/Tdt/Core",
+			"/Users/jan/Sites/core/app/Tdt/Core/Tests",
+			"/Users/jan/Sites/core/app/Tdt/Core",
+			"/Users/jan/Sites/core/vendor/easyrdf/easyrdf",
+			"/Users/jan/Sites/core/app/database/migrations",
+			"/Users/jan/Sites/core/vendor",
+			"/Users/jan/Sites/core/vendor/ml",
+			"/Users/jan/Sites/core/vendor/ml/json-ld/ML/JsonLD",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app/Tdt/Core",
+			"/Users/jan/Sites/core/workbench/triples/vendor/semsol/arc2",
+			"/Users/jan/Sites/docs/app/controllers/docs",
+			"/Users/jan/Sites/core/workbench/input",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/input",
+			"/Users/jan/Sites/core/workbench/tdt/triples/src/Tdt/Triples/Repositories",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/tests",
+			"/Users/jan/Sites/core/app/Tdt",
+			"/Users/jan/Sites/core/workbench/tdt/triples/src/Tdt",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/workbench/tdt/triples/src/Tdt",
+			"/Users/jan/Sites/core/app/repositories",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/formatters",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/vendor/ml/json-ld/ML",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/formatters",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/controllers",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core",
+			"/Users/jan/Sites/core/app/lib",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/workbench/input/src/tdt",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core/app/lib/rdfapi-php",
+			"/Users/jan/Sites/core/app/database/migrations",
+			"/Users/jan/Downloads/core-3.0.0",
+			"/Users/jan/Sites/core/app/models",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core/app/controllers",
+			"/Users/jan/Sites/docs/app/controllers/docs/4.1",
+			"/Users/jan/Sites/docs/app/controllers/docs",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core/app/controllers",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql/source",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"/Users/jan/Sites/core/app",
+			"/Users/jan/Sites/core/app/controllers",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"<project>",
+			"/Users/jan/Sites/core/workbench",
+			"<project>",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"<project>",
+			"/Users/jan/Sites/core/app/controllers/tdt",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"",
+			"<project>",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql",
+			"<project>",
+			"/Users/jan/Sites/core/app/controllers/tdt/core/spectql"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"title",
+			"dcat_object",
+			");",
+			"DB",
+			"\n",
+			",",
+			"        ",
+			"Title",
+			"uri",
+			"Primary key",
+			"The password for the user that has read permissions.",
+			"Password",
+			"A username that has read permissions on the provided collection. Safety first, make sure the user only has read permissions.",
+			"Username",
+			"Host",
+			"Map property",
+			"The descriptive or informational string that provides some context for you published dataset.",
+			"A name given to the resource.",
+			"Non ge",
+			"separated value file",
+			"Multi",
+			"test",
+			"source_definition",
+			"map_p",
+			"string",
+			"$definitions",
+			"setting",
+			"$settings",
+			":",
+			"createV",
+			"createVA",
+			"getModel",
+			"function convert",
+			"convert",
+			"fixU",
+			"\\Log::info",
+			"fillInParameters",
+			"ProductcategoryDefinition",
+			"ProductcategoryController",
+			"ProductCategoryDefinition",
+			"\\Log",
+			"baseU",
+			"uri",
+			"map_property",
+			"inzit",
+			" either a URL or a local file location.",
+			"primary",
+			"map_",
+			"ID",
+			"Username",
+			"The descriptive or informational string that provides some context for you published dataset.",
+			"Description",
+			"A name given to the resource.",
+			"file, this should either be a URL or a local file location.",
+			"The location of the ",
+			"Title",
+			"efinition",
+			"definition",
+			";",
+			"parameters_required",
+			"['",
+			");",
+			"translate",
+			"json",
+			"=>",
+			"description",
+			"=>",
+			"default_value",
+			"type",
+			"),",
+			"array",
+			"ription",
+			"=>",
+			"),",
+			"type",
+			"name'",
+			"array",
+			"format",
+			"rdf",
+			"json",
+			"=>",
+			"'name' =",
+			"),",
+			"default_value",
+			"'default_value' => 3306",
+			"type",
+			"required",
+			"array",
+			"=>",
+			"array",
+			"),",
+			"required",
+			"=>",
+			"json",
+			"=>",
+			"ription",
+			"array",
+			"=> ",
+			"\n",
+			"),",
+			"list",
+			"group",
+			"type",
+			"array(",
+			"=>",
+			"\n                ",
+			"                ",
+			"default_value",
+			"type",
+			"array",
+			"dct:",
+			"save",
+			"dataset.",
+			"dataset.tabular",
+			"tabular",
+			"handle(",
+			"View",
+			".json",
+			"view",
+			"configur",
+			"$configu",
+			"Extract",
+			"trans('admin",
+			"$package_contr",
+			"menu",
+			"items",
+			"admin_header",
+			"datasets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'));\n",
+			");\n",
+			"",
+			"tdt\\\\\\\\core\\\\\\\\spectql\\\\\\\\implementation\\\\\\\\interpreter\\\\\\\\executers\\\\\\\\implementations\\\\\\\\$1",
+			"namespace tdt\\\\core\\\\spectql\\\\implementation\\\\$1",
+			"use tdt\\\\core\\\\spectql\\\\implementation\\\\$1",
+			"use tdt\\core\\spectql\\implementation$1",
+			"tdt\\core\\spectql\\implementation\\$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jan/Sites/platform/app/Repositories/DcatRepository.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1136,
+								1136
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "HarvestDcat.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2617,
+								2617
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jan/Sites/platform/app/Models/Dcat/Dataset.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jan/Sites/platform/storage/logs/laravel.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "platform.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"core/app/Tdt/Core/ApiController.php"
+			],
+			[
+				"twi",
+				"core/vendor/predis/predis/examples/TransactionWithCAS.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/tdt.sublime-project"
+			],
+			[
+				"ilastic",
+				"~/Sites/ilastic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
